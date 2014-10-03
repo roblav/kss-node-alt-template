@@ -7,7 +7,7 @@ kss-node enables us to generate a styleguide for CSS, it supports LESS, SASS and
 
 Demo
 ----
-**[Example Styleguide](http://roblav.github.io/kss-node-alt-template/)**
+To be added.
 
 ### Features
 * Generating the style guide is automatically from your live CSS keeps your style guide perfectly instep. Removing the issue that is created by manually created style guides which take effort to maintain.
